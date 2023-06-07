@@ -4,6 +4,17 @@ The Virtual Classroom App is an innovative educational platform designed to faci
 
 # User Manual
 
+Install the app from the Google Play Store and create an account.
+Use the home screen to access your courses and materials.
+Teachers can create classes and students can join those classes using unique code provided by the teacher.
+Teacher can creete announcments and lectures.
+Students can view those announcments and lectures.
+Teachers can assign assignments and quizzes to students.
+Students can Submit their work against those assignments and quizzes.
+Teacher can assign/grade marks against students submissions.
+Track your grades and progress within the app.
+You can also comment on posts for any queries.
+Find help and support within the app if needed.
 
 # Deployment guide
 
