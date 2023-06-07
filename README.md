@@ -2,7 +2,13 @@
 
 The Virtual Classroom App is an innovative educational platform designed to facilitate seamless interaction between teachers and students. It serves as a centralized hub where students can access course materials, submit assignments and quizzes and receive important announcements from their teachers. The app aims to enhance the learning experience by providing a virtual environment that replicates the benefits of a physical classroom.
 
-## Getting Started
+# User Manual
+
+
+# Deployment guide
+
+
+# Troubleshooting and FAQs
 
 This project is a starting point for a Flutter application.
 
