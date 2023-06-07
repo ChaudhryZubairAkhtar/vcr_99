@@ -49,13 +49,55 @@ Ensure a successful deployment by testing, optimizing, and maintaining the Virtu
 
 # Troubleshooting and FAQs
 
-This project is a starting point for a Flutter application.
+## Troubleshooting:
 
-A few resources to get you started if this is your first Flutter project:
+### 1.App crashing or freezing:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Update the app to the latest version.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Restart the app or your device.
+
+Reinstall the app if the issue persists.
+
+### 2.Login/access issues:
+
+Check internet connection.
+
+check if you already signed up or not
+
+Verify correct login credentials.
+
+Contact support for further assistance.
+
+### 3.Assignment/quiz submission problems:
+
+Review requirements and deadlines.
+
+Complete all fields and attachments.
+
+Seek help from the instructor if necessary.
+
+## FAQs:
+
+### 1.How to create an account?
+
+Open the app and follow the on-screen instructions.
+
+### 2.Can I use the app on multiple devices?
+
+Yes, install the app on multiple devices and use the same account.
+
+### 3.How to join a course?
+
+Use the unique id that teacher shared to join the class.
+
+### 4.How to contact the teacher/instructor for any query?
+
+Check course details or announcements.
+Comment on the post where you have the query.
+Teacher will respond soon.
+
+### 5.How to view grades?
+
+Go to the post where you submitted your assignment and you can see your marks graded.
+If not, wait for the teacher to grade it.
