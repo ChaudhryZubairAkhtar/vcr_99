@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149248923519",
+    "project_id": "my-classroom-app-35392",
+    "storage_bucket": "my-classroom-app-35392.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149248923519:android:198a15a6a7f7e3d470ec4a",
+        "android_client_info": {
+          "package_name": "com.example.my_classroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149248923519-42fudurept50pfcdq47e8h3iqb0e5e3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFoVKABdbMWMWbeOy-LZwUrT_c9rXYYGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149248923519-42fudurept50pfcdq47e8h3iqb0e5e3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
