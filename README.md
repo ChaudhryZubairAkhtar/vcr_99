@@ -1,4 +1,4 @@
-# my_classroom
+# Virtual Classroom
 
 A new Flutter project.
 
