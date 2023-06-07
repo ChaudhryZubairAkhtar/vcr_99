@@ -28,21 +28,21 @@ Find help and support within the app if needed.
 
 # Deployment guide
 
-### 1.Test the app thoroughly and resolve any critical issues.
+1.Test the app thoroughly and resolve any critical issues.
 
-### 2.Create app store assets like icons and screenshots.
+2.Create app store assets like icons and screenshots.
 
-### 3.Sign in to the Google Play Console and create a new app listing.
+3.Sign in to the Google Play Console and create a new app listing.
 
-### 4.Upload the assets and provide accurate descriptions.
+4.Upload the assets and provide accurate descriptions.
 
-### 5.Set pricing and distribution options.
+5.Set pricing and distribution options.
 
-### 6.Submit the app for review.
+6.Submit the app for review.
 
-### 7.Monitor the release process and address user feedback promptly.
+7.Monitor the release process and address user feedback promptly.
 
-### 8.Update the app regularly with bug fixes and improvements.
+8.Update the app regularly with bug fixes and improvements.
 
 Ensure a successful deployment by testing, optimizing, and maintaining the Virtual Classroom App for a seamless user experience.
 
